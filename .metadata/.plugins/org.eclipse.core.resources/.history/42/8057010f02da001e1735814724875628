@@ -1,0 +1,20 @@
+package sample05;
+
+public class SjungjukImpl implements SungJuk {
+	public SjungjukImpl() {}
+	
+	private String name;
+	private int kor;
+	private int eng;
+	private int math;
+	private int tot;
+	private int avg;
+	
+	public void calc() {
+		
+	}
+	
+	public void display() {
+		
+	}
+}

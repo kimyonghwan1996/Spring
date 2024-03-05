@@ -1,0 +1,11 @@
+package sample02;
+
+public class MessageKo implements MessageBean {
+
+	@Override
+	public void sayHello(String name) {
+		
+		
+	}
+
+}

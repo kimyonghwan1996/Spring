@@ -1,0 +1,12 @@
+package sample02;
+
+public class HelloSpring {
+
+	public static void main(String[] args) {
+		MessageKo messageKo = new MessageKo();
+		MessageEn messageEn = new MessageEn();
+		
+		//messageKo.sayHello("길동");
+	}
+
+}

@@ -1,0 +1,13 @@
+package sample04;
+
+public class CalcAdd implements Calc {
+	private int num;
+	
+	public CalcAdd() {}
+	
+	@Override
+	public int Add(int x, int y) {
+		return x + y;
+	}
+	
+}
