@@ -1,6 +1,0 @@
-package sample04;
-
-public interface Calc {
-	public int Add(int x, int y); //추상메소드
-	public int Mul(int x, int y);
-}

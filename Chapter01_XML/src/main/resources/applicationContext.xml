@@ -12,8 +12,8 @@
 				session
 				singleton (default)
 	 -->
+	 <bean id="messageBean" class="sample03.MessageKo" scope="prototype"></bean>
 	<bean id="calc" class="sample04.CalcAdd" scope="prototype"></bean>
 	<bean id="calc2" class="sample04.CalcMul" scope="prototype"></bean>
-	<bean id="calc3" class="sample05.SjungjukImpl"></bean>
-	<bean id="display" class="sample05.SjungjukImpl" ></bean>
+	<bean id="sjungjukImpl" class="sample05.SjungjukImpl"></bean>
 </beans>

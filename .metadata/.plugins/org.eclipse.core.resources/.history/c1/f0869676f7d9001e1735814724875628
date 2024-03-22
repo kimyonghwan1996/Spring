@@ -1,9 +1,0 @@
-package sample04;
-
-public class CalcMul implements Calc {
-	
-	@Override
-	public int Mul(int x, int y) {
-		return x * y;
-	}
-}
