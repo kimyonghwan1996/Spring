@@ -104,6 +104,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Spring\workspace\SpringNCPMaven"/>
 			<item value="C:\Spring\workspace\Chapter05_ANNO1"/>
 			<item value="C:\Spring\workspace\Chapther04_ANNO1"/>
 		</list>

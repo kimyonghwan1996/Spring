@@ -8,6 +8,7 @@
 <aop-project name="Chapter01_XML"/>
 <aop-project name="Chapter01_ANNO"/>
 <aop-project name="Chapter03_XML"/>
+<aop-project name="SpringNCPMaven"/>
 <aop-project name="Chapter05_XML"/>
 <aop-project name="Chapter06_Web"/>
 <aop-project name="Chapter06_1"/>
